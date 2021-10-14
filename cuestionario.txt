@@ -1,0 +1,20 @@
+pregunta
+<br>
+1 En tus palabras, ¿Qué es internet?
+
+<br>
+2 Describe los medios fisicos y de propagacion de ondas por lois que se transmite la informacion en internet
+
+<br>
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+<br>
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+<br>
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML
+<br>
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+<br>
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+<br>
+8 ¿Cómo funciona la búsqueda de google?
+
