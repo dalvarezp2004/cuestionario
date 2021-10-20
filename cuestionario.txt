@@ -1,16 +1,16 @@
 pregunta
 <br>
 1 En tus palabras, ¿Qué es internet?
-
+El internet es un centro virtual donde todo el conocimiento humano se reune
 <br>
-2 Describe los medios fisicos y de propagacion de ondas por lois que se transmite la informacion en internet
-
+2 Describe los medios fisicos y de propagacion de ondas por los que se transmite la informacion en internet
+Por medio fisico se pasa por extraorrdinarios, periodicos , cartreles , etc. Por internet en las paginas hay anuncios en las mas famosas y tambien en redes sociales
 <br>
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-
+una dirección IP identifica una computadora en una red (localhost)y hasta un servidor; por su parte los DNS hacen la conversión de IPs hacia nombres de dominios asociados a páginas web
 <br>
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-
+Por medio de3 internet mas que todo y puedes decidir el nivel de calidad
 <br>
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
 
