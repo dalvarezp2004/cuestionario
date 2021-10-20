@@ -13,13 +13,19 @@ una dirección IP identifica una computadora en una red (localhost)y hasta un se
 Por medio de3 internet mas que todo y puedes decidir el nivel de calidad
 <br>
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
-
+Http es una transmision de documentos hipermedia como html, Html es un lenguaje en ingles de Hypertext Marcup Lenguage 
 <br>
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-
+Encriptacion es el procedimiento que utiliza un algoritmo de cifrado con cierta clave para transformar un mensaje.
+Las llaves publicas son tecnicas de cifrado que utiliza llaves diferentes para cifrado y descifrado.
 <br>
 7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-
+Por medio de la encriptacion ya que tienes que tener cierta clave para transformarlo
+Por medio de las llaves publicas ya que son una tecnicas para tener diferentes cifrados
 <br>
 8 ¿Cómo funciona la búsqueda de google?
+Esta funciona por medio de codigos en html y tiene que ver mas con la parte de javascript
 
+Isaac Martinez Chavez
+Diego Alvarez 
+11°2
